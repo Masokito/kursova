@@ -1,0 +1,25 @@
+<list>
+  <Maincode.taruf.Mob__taruf>
+    <name>r</name>
+    <clients>54</clients>
+    <payroll>54.0</payroll>
+    <minutes>54</minutes>
+    <add__min__price>54.0</add__min__price>
+  </Maincode.taruf.Mob__taruf>
+  <Maincode.taruf.Mob__taruf>
+    <name>gf</name>
+    <clients>42</clients>
+    <payroll>34.0</payroll>
+    <minutes>234</minutes>
+    <add__min__price>24.0</add__min__price>
+  </Maincode.taruf.Mob__taruf>
+  <Maincode.taruf.Mob__sms__taruf>
+    <name>ree</name>
+    <clients>33</clients>
+    <payroll>2.0</payroll>
+    <minutes>3</minutes>
+    <add__min__price>2.0</add__min__price>
+    <num__of__sms>3</num__of__sms>
+    <add__sms__price>2.0</add__sms__price>
+  </Maincode.taruf.Mob__sms__taruf>
+</list>
